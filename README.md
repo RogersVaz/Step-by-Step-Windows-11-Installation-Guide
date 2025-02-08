@@ -102,4 +102,17 @@ Agora você tem uma instalação limpa do Windows 11! Seu sistema está pronto p
 
 ## **Perguntas Frequentes**
 
-### 1. **Posso instalar o Windows 11 sem uma c
+### 1. **Posso instalar o Windows 11 sem uma chave de produto?**
+   - Sim, você pode instalar o Windows 11 sem uma chave de produto. No entanto, o sistema ficará em modo de avaliação, e algumas funcionalidades, como personalização de papel de parede, estarão desativadas.
+
+### 2. **Como posso verificar se meu PC é compatível com o Windows 11?**
+   - O Windows 11 tem requisitos específicos de hardware. Você pode verificar se seu PC é compatível usando a ferramenta **Verificação de Integridade do PC**, fornecida pela Microsoft. Baixe aqui: [Ferramenta Verificação de Integridade do PC](https://aka.ms/GetPCHealthCheckApp).
+
+### 3. **Quanto tempo leva para formatar e instalar o Windows 11?**
+   - O processo pode levar de 30 minutos a 1 hora, dependendo da velocidade do seu PC e do pen drive.
+
+---
+
+**Referências**:
+- [Microsoft - Criar Mídia de Instalação do Windows 11](https://www.microsoft.com/pt-br/software-download/windows11)
+- [Suporte Oficial da Microsoft](https://support.microsoft.com/pt-br)
